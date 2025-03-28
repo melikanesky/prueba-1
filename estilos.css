@@ -1,0 +1,9 @@
+.navbar-brand{
+    color:blueviolet;
+}
+.navbar-brand:hover{
+    color:black;
+}
+p{
+    color:darkmagenta;
+}
